@@ -1,0 +1,17 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "description": "A backend from chai aur code channel - youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript",
+    "backend",
+    "Ali",
+    "Haider"
+  ],
+  "author": "Ali Haider",
+  "license": "ISC"
+}
